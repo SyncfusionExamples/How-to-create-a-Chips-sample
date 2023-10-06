@@ -19,20 +19,20 @@ Step 2: Then initialize an empty SfChipGroup as shown in the following code:
 
 ```
 <ContentPage.Content>
-		<Grid>
-			<buttons:SfChipGroup/>
-		</Grid>
-	</ContentPage.Content>
+	<Grid>
+             <buttons:SfChipGroup/>
+	</Grid>
+</ContentPage.Content>
 ```
 **[C#]**
 ```
 public GettingStarted()
-		{
-			InitializeComponent();
-			Grid grid = new Grid();
-			grid.Children.Add(new SfChipGroup());
-			this.Content = grid;
-		}
+{
+  InitializeComponent();
+  Grid grid = new Grid();
+  grid.Children.Add(new SfChipGroup());
+  this.Content = grid;
+}
 ```
 ## How to run this application?
 
