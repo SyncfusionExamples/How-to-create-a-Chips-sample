@@ -19,9 +19,9 @@ Step 2: Then initialize an empty SfChipGroup as shown in the following code:
 
 ```
 <ContentPage.Content>
-	<Grid>
-             <buttons:SfChipGroup/>
-	</Grid>
+  <Grid>
+     <buttons:SfChipGroup/>
+  </Grid>
 </ContentPage.Content>
 ```
 **[C#]**
