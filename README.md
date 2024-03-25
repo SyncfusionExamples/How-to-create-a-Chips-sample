@@ -1,6 +1,6 @@
 # How-to-create-a-Chips-sample
 This repository sample explains how to create a chips sample in Xamarin.Forms 
-# Getting Started with Chip sample
+## Getting Started with Chip sample
 Step 1: Add the NuGet to the project and add the namespace as shown in the following code sample:
 
 **[XAML]**
